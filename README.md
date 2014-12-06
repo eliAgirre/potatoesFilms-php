@@ -9,7 +9,8 @@ API request of movies in PHP.
     Guardará los datos obtendos para poder visualizar en el lado del cliente.
 
     El cliente será la carpeta llamada "views". 
-    La vista contiene el fichero moviesAPI.php para visualizar el resultado obtenido desde el Controller.php.
+    La vista contiene el fichero moviesAPI.php.
+    Así se visualizará el resultado obtenido desde el Controller.php.
 
 Documentación de la API en PHP:
 
